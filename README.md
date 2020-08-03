@@ -31,6 +31,8 @@ In other words, you may come across the term *high-frequency trading (HFT)* whic
 		- The strategy here is to monitor two moving averages- one over the long-term and one over the shorter-term. When the short-term average crosses over the long-term average, it represents a good time buy. Otherwise, it represents a good time to sell.  
 	- *Moving Average Convergence/ Divergence (MACD) Crossover*
 		- The strategy here is to evaluate the difference between the short-term and long-term exponential moving averages. This is called MACD and when this cross over the signal, it represents a good time to buy stocks and sell otherwise.
+    - *Three Moving Average Crossover*
+    	- The strategy here is to evaluate short-term, mid-term and long-term exponential moving averages and compare the short to mid and mid to long-term signals to evaluate whether it is a good time to buy or sell. Thus, there are multiple cases that represent an opportune time to buy or sell when using this strategy. 
 
 
 ## What stock was analyzed?
