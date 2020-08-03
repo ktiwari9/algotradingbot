@@ -1,1 +1,7 @@
 language: python
+python:
+  - "3.6"
+dependencies:
+- python=3.5
+- numpy==1.13.1
+- jupyter==1.0
