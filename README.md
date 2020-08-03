@@ -1,4 +1,4 @@
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)  [![HitCount](http://hits.dwyl.com/ktiwari9/algotradingbot.svg)](http://hits.dwyl.com/ktiwari9/algotradingbot)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/ktiwari9/algotradingbot/issues)  [![HitCount](http://hits.dwyl.com/ktiwari9/algotradingbot.svg)](http://hits.dwyl.com/ktiwari9/algotradingbot)
 
 
 
