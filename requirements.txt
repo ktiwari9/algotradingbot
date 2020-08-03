@@ -1,5 +1,0 @@
-matplotlib
-notebook
-nbconvert
-pandas
-requests
