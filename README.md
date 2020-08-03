@@ -56,8 +56,8 @@ AAPL = pd.read_csv('AAPL.csv')
 
 with the following:
 ```
-url = https://raw.githubusercontent.com/ktiwari9/algotradingbot/master/AAPL.csv?token=ABMFOHKA4GSLLP4QJTICQPK7E5RFO # customize to correct RAW file path
-AAPL = pd.read_csv('url')
+url = 'https://raw.githubusercontent.com/ktiwari9/algotradingbot/master/AAPL.csv?token=ABMFOHKA4GSLLP4QJTICQPK7E5RFO' # customize to correct RAW file path
+AAPL = pd.read_csv(url)
 ```
 
 The repository must be made public to access the CSV file via a URL like this. Otherwise, for a private repository, you would need a Personal Access Token (PAT) and you can find the details on how to access the file in this case, [here](https://medium.com/towards-entrepreneurship/importing-a-csv-file-from-github-in-a-jupyter-notebook-e2c28e7e74a5).
