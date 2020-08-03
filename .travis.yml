@@ -1,5 +1,4 @@
 language: python
-script:
- - bash ci.sh
+install: pip install --user -r requirements.txt
 notifications:
   email: false
