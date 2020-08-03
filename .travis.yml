@@ -1,4 +1,0 @@
-language: python
-install: pip install --user -r requirements.txt
-notifications:
-  email: false
