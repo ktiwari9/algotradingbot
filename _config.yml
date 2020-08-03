@@ -1,1 +1,26 @@
 theme: jekyll-theme-cayman
+title: Algorithmic Trading Bot
+description: Some of the most commonly utilized algorithmic trading strategies with backtesting on well-known stocks like AAPL and DJI. 
+The code can easily be run on the Google Colaboratory.
+show_downloads: true
+google_analytics: #
+google_analytics_anonymize: false
+darkmode: false
+hide_first_title: true # Useful if README.md is used on both github and pages
+logo_url: ./logo.png # Either absolute or relative url
+syntax_theme: ./syntax.css # Leave empty for default, otherwise link to a pygments stylesheet
+colors:
+    gradient_left: "#155799"
+    gradient_right: "#159957"
+    header: "#fff"
+    android_theme: "#000" # this default to gradient_color
+    link: "#1e6bb8" # this default to gradient_color
+    section_title: "#155799" # this default to gradient_color
+buttons:
+      zip_url: http://example.com/
+      zip_title: algtradingbot.zip
+      zip_hide: true
+      tar_url: http://example.com/
+      tar_title: algtradingbot.tar
+      tar_hide: true
+      github_hide: false # hides "View on Github"
