@@ -6,7 +6,7 @@ google_analytics: #
 google_analytics_anonymize: false
 darkmode: true
 hide_first_title: true # Useful if README.md is used on both github and pages
-logo: ./assets/images/Algotrading-Bot-Logo.png 
+logo: /assets/images/Algotrading-Bot-Logo.png 
 syntax_theme: ./jekyll-theme-cayman.css # Leave empty for default, otherwise link to a pygments stylesheet
 colors:
     gradient_left: "#155799"
