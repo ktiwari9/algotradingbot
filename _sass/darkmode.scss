@@ -1,0 +1,23 @@
+
+// Redefine fixed variables from /assets/css/style.scss for dark mode
+
+// Text
+$body-text-color: #98abb3 !default;
+$blockquote-text-color: #d5dadd !default;
+
+// Code
+$code-bg-color: #222 !default;
+$code-text-color: #eee !default;
+
+// Borders
+$border-color: #819198 !default;
+$table-border-color: #555 !default;
+$hr-border-color: #819198 !default;
+
+body {
+    background-color: #111 !important;
+}
+
+div.highlight {
+    background-color: transparent !important;
+}

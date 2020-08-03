@@ -1,0 +1,22 @@
+
+h1[id]:hover::before,
+h2[id]:hover::before,
+h3[id]:hover::before,
+h4[id]:hover::before,
+h5[id]:hover::before,
+h6[id]:hover::before {
+    content: '#';
+    position: relative;
+    right: 1em;
+    margin-right: -0.65em;
+    opacity: 0.5;
+}
+
+h1[id],
+h2[id],
+h3[id],
+h4[id],
+h5[id],
+h6[id] {
+    cursor: pointer;
+}
