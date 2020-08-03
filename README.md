@@ -1,3 +1,9 @@
+[![Inline docs](http://inch-ci.org/github/ktiwari9/algotradingbot
+.svg?branch=master)](http://inch-ci.org/github/ktiwari9/algotradingbot)   [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)  [![HitCount](http://hits.dwyl.com/ktiwari9/algotradingbot.svg)](http://hits.dwyl.com/ktiwari9/algotradingbot)  [![Build Status](https://travis-ci.org/ktiwari9/algotradingbot.png?branch=master)](https://travis-ci.org/ktiwari9/algotradingbot)
+
+
+
+
 # Algorithmic Trading
 
 Algorithmic Trading is a tool for automating the trading process by executing the orders when pre-programming trading conditions are met.
