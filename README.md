@@ -26,6 +26,7 @@ In other words, you may come across the term *high-frequency trading (HFT)* whic
 - Scalping
 - Transaction cost reduction
 - Market timing
+- Sentiment Analysis: This strategy predicts the trends for a particular commodity based on market sentiments stemming from top new articles.
 - Moving Average Crossover
 	- *Dual Moving Average Crossover*
 		- The strategy here is to monitor two moving averages- one over the long-term and one over the shorter-term. When the short-term average crosses over the long-term average, it represents a good time buy. Otherwise, it represents a good time to sell.  
