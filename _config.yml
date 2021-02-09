@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 title: Algorithmic Trading Bot
-description: Some of the most commonly utilized algorithmic trading strategies with backtesting on well-known stocks like AAPL and DJI. The code can easily be run on the Google Colaboratory.
+description: Some of the most commonly utilized algorithmic trading strategies with backtesting on well-known stocks like AAPL and DJI.
 show_downloads: true
 google_analytics: #
 google_analytics_anonymize: false
